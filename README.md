@@ -4,7 +4,7 @@ These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
 kernel, and what to do if something goes wrong. 
 
-WHAT IS LINUX?
+# WHAT IS LINUX?
 
   Linux is a clone of the operating system Unix, written from scratch by
   Linus Torvalds with assistance from a loosely-knit team of hackers across
@@ -18,7 +18,7 @@ WHAT IS LINUX?
   It is distributed under the GNU General Public License - see the
   accompanying COPYING file for more details. 
 
-ON WHAT HARDWARE DOES IT RUN?
+# ON WHAT HARDWARE DOES IT RUN?
 
   Although originally developed first for 32-bit x86-based PCs (386 or higher),
   today Linux also runs on (at least) the Compaq Alpha AXP, Sun SPARC and
@@ -34,7 +34,7 @@ ON WHAT HARDWARE DOES IT RUN?
   Linux has also been ported to itself. You can now run the kernel as a
   userspace application - this is called UserMode Linux (UML).
 
-DOCUMENTATION:
+## DOCUMENTATION:
 
  - There is a lot of documentation available both in electronic form on
    the Internet and in books, both Linux-specific and pertaining to
@@ -56,7 +56,7 @@ DOCUMENTATION:
    After installation, "make psdocs", "make pdfdocs", "make htmldocs",
    or "make mandocs" will render the documentation in the requested format.
 
-INSTALLING the kernel source:
+## INSTALLING the kernel source:
 
  - If you install the full sources, put the kernel tarball in a
    directory where you have permissions (eg. your home directory) and
