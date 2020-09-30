@@ -34,7 +34,7 @@ kernel, and what to do if something goes wrong.
   Linux has also been ported to itself. You can now run the kernel as a
   userspace application - this is called UserMode Linux (UML).
 
-DOCUMENTATION:
+## DOCUMENTATION:
 
  - There is a lot of documentation available both in electronic form on
    the Internet and in books, both Linux-specific and pertaining to
@@ -56,7 +56,7 @@ DOCUMENTATION:
    After installation, "make psdocs", "make pdfdocs", "make htmldocs",
    or "make mandocs" will render the documentation in the requested format.
 
-INSTALLING the kernel source:
+## INSTALLING the kernel source:
 
  - If you install the full sources, put the kernel tarball in a
    directory where you have permissions (eg. your home directory) and
